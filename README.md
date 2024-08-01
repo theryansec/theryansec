@@ -7,5 +7,4 @@
 - projects here
 
 ## contacts / social:
-lucasryanfer@gmail.com
-@wholryanis
+lucasryanfer@gmail.com - @wholryanis
