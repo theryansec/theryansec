@@ -1,10 +1,10 @@
 ## welcome.
 
-- name: lucas ryan
+- name: lucas ryan.
 - email: lucasryanfer@gmail.com
 
-- studying javascript
-- projects here
+- studying javascript.
+- projects here.
 
 ## contacts / social:
 lucasryanfer@gmail.com - @wholryanis
